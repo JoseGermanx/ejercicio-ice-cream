@@ -1,3 +1,5 @@
+// agregar 2 nuevos sabores de helado al array
+
 let iceCreamFlavors = [
   "Chocolate",
   "Strawberry",
