@@ -6,7 +6,7 @@ let iceCreamFlavors = [
   "Vanilla",
   "Pistacho",
   "Neapolitan",
-  "Mint Chip",
+  "Mint Chip",  
 ];
 
 let iWantAIceCream = window.prompt("Que sabor de helado deseas?", "");
